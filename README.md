@@ -11,6 +11,13 @@ Implementa captura de tela via GDI, segmentação por cor (HSV) e movimento suav
 
 O SimpleAimbot demonstra como criar um sistema de detecção de alvos utilizando apenas Python e chamadas diretas à API do Windows, sem dependências externas como OpenCV. O código é modular, comentado e projetado para ser compreendido por quem está aprendendo conceitos de captura de tela, processamento de imagem e automação.
 
+> [!WARNING]
+> **Aviso Legal**
+>
+> Este projeto é estritamente educacional. O objetivo é ensinar técnicas de captura de tela, processamento de imagem e automação em Python.
+>
+> **Não utilize este software em jogos online ou qualquer ambiente onde isso possa violar termos de serviço.** O autor não se responsabiliza por qualquer uso indevido, banimentos ou danos causados pelo software.
+
 ---
 
 ## Funcionamento
@@ -49,9 +56,14 @@ Para ajustar a cor alvo, utilize um editor de imagens (GIMP, Photoshop) para obt
 
 ---
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/simple-aimbot.git
-   cd simple-aimbot
+> [!IMPORTANT]
+> **Licença GNU General Public License v3.0**
+>
+> Este é um software livre: você pode modificá-lo e redistribuí-lo sob os termos da GNU GPL v3. Significa que você não pode vender este app.
+>
+> **Ao utilizar este código, você concorda que:**
+> - Qualquer distribuição deve manter a mesma licença.
+> - O código fonte deve ser disponibilizado.
+> - Não há garantias: o software é fornecido "como está".
+>
+> Leia o arquivo [LICENSE](LICENSE) para mais detalhes.
