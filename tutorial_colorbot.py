@@ -453,3 +453,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+                              ╔═══════════════════════════════════════╗
+                              ║  -_-_-Script from another author-_-_- ║
+                              ║  -_-_-Credits to sweatydeveloper-_-_- ║
+                              ╚═══════════════════════════════════════╝
